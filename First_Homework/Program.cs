@@ -1,2 +1,42 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿/*Task 1
+Console.WriteLine("Enter 1st number");
+int a =Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter 2nd number");
+int b =Convert.ToInt32(Console.ReadLine());
+if(a>b)
+{
+  Console.WriteLine(a);
+}
+else 
+{
+  Console.WriteLine(b);
+}*/
+
+
+/*Task2
+Console.WriteLine("Enter 1st number");
+int a =Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter 2nd number");
+int b =Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter 3rd number");
+int c =Convert.ToInt32(Console.ReadLine());
+int max =a;
+if(b>max)
+{
+ max=b;
+ if(c>max)
+ {
+  max=c;
+ }
+}
+else if(c>max)
+{
+ max=c;
+ if(b>max)
+ {
+max=b;
+ }
+}
+Console.WriteLine(max);*/
+
+
