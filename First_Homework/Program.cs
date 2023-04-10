@@ -39,7 +39,7 @@ max=b;
 }
 Console.WriteLine(max);*/
 
-//Part3
+/*Part3
 Console.WriteLine("Enter number");
 int number = Convert.ToInt32(Console.ReadLine());
 int n;
@@ -51,6 +51,18 @@ if(n==0)
 else 
 {
   Console.WriteLine("odd number");
+}*/
+
+
+/*Part4
+Console.WriteLine("Enter number");
+int number = Convert.ToInt32(Console.ReadLine());
+int i;
+for(i=1;i<number;i++)
+{
+if(i%2==0)
+{
+  Console.WriteLine(i);
 }
-
-
+}
+*/
