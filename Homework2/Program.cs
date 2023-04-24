@@ -1,20 +1,20 @@
-﻿//TASK1
-// int num = new Random().Next(11,11);
-// Console.WriteLine(num);
-// int a = num/10;
-// int b= num%10;
-// if(a>b)
-// {
-// Console.WriteLine(a);
-// }
-// else if (b>a)
-// {
-// Console.WriteLine(b);
-// }
-// else 
-// {
-//   Console.WriteLine("числа равны");
-// }
+﻿// TASK1
+int num = new Random().Next(11,11);
+Console.WriteLine(num);
+int a = num/10;
+int b= num%10;
+if(a>b)
+{
+Console.WriteLine(a);
+}
+else if (b>a)
+{
+Console.WriteLine(b);
+}
+else 
+{
+  Console.WriteLine("числа равны");
+}
 
 // //TASK2
 // int num = new Random().Next(100,1000);

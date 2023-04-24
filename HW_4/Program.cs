@@ -1,4 +1,4 @@
-﻿//                                                 Task1
+﻿//                                                 Task25
 // Console.WriteLine("enter number 1");
 // int num1 = Convert.ToInt32(Console.ReadLine());
 // Console.WriteLine("enter number 2");
@@ -18,7 +18,7 @@
 // int Count1= GetSumNum();
 // Console.WriteLine(Count1);
 
-//                               // Task2
+//                               // Task27
 
 // Console.WriteLine("enter number 1");
 // int num1 = Convert.ToInt32(Console.ReadLine());
@@ -37,5 +37,14 @@
 // Console.WriteLine(SumCost);
 
 
-           // TASK3
+                                      // TASK29
 
+// int [] numArr= new int [8];
+
+
+// for(int i=0;i<numArr.Length;i++)
+// {
+//   numArr[i] = new Random().Next(0,101);
+// }
+
+// Console.WriteLine(String.Join(" ",numArr));
